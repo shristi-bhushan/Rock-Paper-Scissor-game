@@ -1,7 +1,7 @@
 # Rock-Paper-Scissor-game
 
 This is a simple game of childhood build using python.
-# Player V/s Computerd
+# Player V/s Computer
 There are three choices: Rock , Paper and Scissor <br />
 If player and computer choice matches, It's a tie !!
 
